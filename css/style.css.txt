@@ -1,0 +1,11 @@
+.bookform_div {
+    border: 1px solid #c7c1c1;
+    padding:30px;
+}
+.contact{
+max-width: 380px;
+    text-align: center;
+    margin: auto;
+    
+    padding: 30px 0px;
+}
